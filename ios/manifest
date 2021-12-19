@@ -1,0 +1,19 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: arm64 x86_64
+mac: true
+description: titanium-document-viewer
+author: Hans Knöchel
+license: MIT
+copyright: Copyright (c) 2021 by Hans Knöchel
+
+# these should not be edited
+name: titanium-document-viewer
+moduleid: ti.documentviewer
+guid: 6f4ffdd2-14b7-477c-969c-8eb91bd24078
+platform: iphone
+minsdk: 9.2.0

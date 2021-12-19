@@ -1,0 +1,5 @@
+# Build folder and log file
+build/
+build.log
+dist
+.DS_Store
